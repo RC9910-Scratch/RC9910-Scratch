@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RC9910-Scratch/RC9910-Scratch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am mostly active on [Scratch](https://scratch.mit.edu)
+
+I have two profiles:
+-
+- Main [(RandomCoder9910)](https://scratch.mit.edu/users/RandomCoder9910)
+- Alt [(RandomCoderTest)](https://scratch.mit.edu/users/RandomCoderTest)
+
+
